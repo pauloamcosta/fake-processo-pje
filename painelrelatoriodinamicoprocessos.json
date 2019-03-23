@@ -1,0 +1,94 @@
+{
+    "id": 1,
+    "numero": "0800003-14.2010.4.05.8400",
+    "dataInicio": "2010-04-17 12:06:44.533",
+    "dataDistribuicao": "2010-04-19 11:31:32.14",
+    "justicaGratuita": "N",
+    "instancia": 0,
+    "classeJudicial": "EXECUÇÃO DE TÍTULO EXTRAJUDICIAL",
+    "orgaoJulgador": "5ª VARA FEDERAL",
+    "assunto": "Contratos Bancários",
+    "dataUltimaMovimentacao": "2012-05-29 17:06:14.118",
+    "movimentacoes": [
+        {
+            "id": 206,
+            "dataAtualizacao": "2012-05-03 13:43:14.161",
+            "descricao": "Conclusão",
+            "visibilidadeExterna": "S"
+        },
+        {
+            "id": 206,
+            "dataAtualizacao": "2011-10-19 18:40:44.706",
+            "descricao": "Conclusão",
+            "visibilidadeExterna": "S"
+        },
+        {
+            "id": 206,
+            "dataAtualizacao": "2011-05-09 18:04:43.27",
+            "descricao": "Conclusão",
+            "visibilidadeExterna": "S"
+        },
+        {
+            "id": 206,
+            "dataAtualizacao": "2010-09-10 17:05:31.04",
+            "descricao": "Conclusão",
+            "visibilidadeExterna": "S"
+        },
+        {
+            "id": 206,
+            "dataAtualizacao": "2010-12-06 12:09:38.077",
+            "descricao": "Conclusão",
+            "visibilidadeExterna": "S"
+        },
+        {
+            "id": 206,
+            "dataAtualizacao": "2011-01-26 17:19:51.348",
+            "descricao": "Conclusão",
+            "visibilidadeExterna": "S"
+        },
+        {
+            "id": 206,
+            "dataAtualizacao": "2011-02-28 15:52:42.973",
+            "descricao": "Conclusão",
+            "visibilidadeExterna": "S"
+        }
+    ],
+    "documentos": [
+        {
+            "id": 6288,
+            "descricao": "Certidão",
+            "dataInclusao": "2012-11-16 17:02:49.318",
+            "extensaoArquivo": null,
+            "nomeArquivo": null,
+            "tamanhoArquivo": 0,
+            "sigiloso": "N"
+        },
+        {
+            "id": 6287,
+            "descricao": "Certidão",
+            "dataInclusao": "2012-11-16 17:01:46.526",
+            "extensaoArquivo": null,
+            "nomeArquivo": null,
+            "tamanhoArquivo": 0,
+            "sigiloso": "N"
+        },
+        {
+            "id": 6286,
+            "descricao": "Certidão",
+            "dataInclusao": "2012-11-16 16:58:44.425",
+            "extensaoArquivo": null,
+            "nomeArquivo": null,
+            "tamanhoArquivo": 0,
+            "sigiloso": "N"
+        },
+        {
+            "id": 6285,
+            "descricao": "Certidão",
+            "dataInclusao": "2012-11-16 16:55:11.614",
+            "extensaoArquivo": null,
+            "nomeArquivo": null,
+            "tamanhoArquivo": 0,
+            "sigiloso": "N"
+        }
+    ]
+}
